@@ -859,7 +859,7 @@ ConfigSys = html.Div(children=[
 
     To see this example code in action
     [check out our ODBC example](https://github.com/plotly/dash-on-premise-sample-app/pull/3#issue-144272510)
-     On-Premise application.
+     On-Premises application.
     '''))
 ])
 
