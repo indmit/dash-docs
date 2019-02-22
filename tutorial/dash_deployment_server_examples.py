@@ -1429,7 +1429,7 @@ Authentication = html.Div(children=[
     In the first section we will discuss how to add `dash-auth` to your 
     existing Dash apps. In the second, we will illustrate how `dash-auth` works 
     for the 
-    [On-Premise Sample App](https://github.com/plotly/dash-on-premise-sample-app/). 
+    [On-Premises Sample App](https://github.com/plotly/dash-on-premise-sample-app/). 
     For more discussion and examples about authentication and available 
     methods, see [authentication](/authentication). 
 
@@ -1561,11 +1561,11 @@ os.environ['PLOTLY_API_KEY'] = 'your-api-key'
     dcc.Markdown(s('''
     ***
 
-    ## Using `dash-auth` in the On-Premise Sample App
+    ## Using `dash-auth` in the On-Premises Sample App
 
     This section is relevant for those that have 
     [cloned and deployed](/deployment) the 
-    [On-Premise Sample App](https://github.com/plotly/dash-on-premise-sample-app/).
+    [On-Premises Sample App](https://github.com/plotly/dash-on-premise-sample-app/).
 
     #### Modify the `config.py` File
 
@@ -1794,7 +1794,7 @@ Redis = html.Div(children=[
 
     In Plotly Enterprise 2.5.0, Redis Databases are always enabled.
 
-    For previous versions, navigate to Plotly On-Premise Server Settings
+    For previous versions, navigate to Plotly On-Premises Server Settings
     (`https://<your.plotly.domain>:8800/settings`), then under **Special Options
     & Customizations** select **Enable Dash Customizations** and **Enable Redis
     Databases** for Dash Apps.
